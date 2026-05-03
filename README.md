@@ -5,7 +5,7 @@ Nové rozloženie klávesnice, ktoré umožňuje bez prepínania písať po slov
 ## Ako to funguje?
 
 - Všetky slovenské znaky sa nachádzajú na zhodných pozíciách ako na slovenskej klávesnici (platí pre najvyšší rad kláves s číslicami). 
-- Všetky znaky relevantné pre počítačový kód, vrátanie rôznych druhov zátvoriek, sa nachádzajú na zhodných pozíciách ako má americká klávesnica (napríklad 
+- Všetky znaky relevantné pre počítačový kód, vrátanie rôznych druhov zátvoriek, sa nachádzajú na zhodných pozíciách ako u americkej klávesnice.
 - České a nemecké znaky sú k dispozícii pod bežnými klávesami s písmenom prostredníctvom modifikačnej klávesy AltGr (čiže "pravý Alt"). Napríklad `AltGr+E` napíše znak `ě`.
 - Číslice sú prístupné na obvyklých pozíciách, tiež prostredníctvom AltGr.
 
