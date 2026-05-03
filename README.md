@@ -17,7 +17,7 @@ Nové rozloženie klávesnice, ktoré umožňuje bez prepínania písať po slov
 
 ## Inštalácia
 
-Stiahni celý repozitár, prípadne použi `git clone`. Postupuj podľa návodu pre konkrétny OS v príslušnom podadresári. Vo Windows spusti `setup.exe`.
+Stiahni celý repozitár, napríklad zeleným tlačidlom `Code` -> `Download ZIP`. Postupuj podľa návodu pre konkrétny OS v príslušnom podadresári. Vo Windows spusti `setup.exe`.
 
 
 
