@@ -6,7 +6,7 @@ Nové rozloženie klávesnice, ktoré umožňuje bez prepínania písať po slov
 
 - Všetky slovenské znaky sa nachádzajú na zhodných pozíciách ako na slovenskej klávesnici (platí pre najvyšší rad kláves s číslicami). 
 - Všetky znaky relevantné pre počítačový kód, vrátanie rôznych druhov zátvoriek, sa nachádzajú na zhodných pozíciách ako má americká klávesnica (napríklad 
-- České a nemecké znaky sú k dispozícii pod bežnými klávesami s písmenom prostredníctvom modifikačnej klávesy AltGr (čiže "pravý Alt").
+- České a nemecké znaky sú k dispozícii pod bežnými klávesami s písmenom prostredníctvom modifikačnej klávesy AltGr (čiže "pravý Alt"). Napríklad `AltGr+E` napíše znak `ě`.
 - Číslice sú prístupné na obvyklých pozíciách, tiež prostredníctvom AltGr.
 
 ## Podporované platformy
@@ -19,5 +19,7 @@ Nové rozloženie klávesnice, ktoré umožňuje bez prepínania písať po slov
 
 Stiahni celý repozitár, napríklad zeleným tlačidlom `Code` -> `Download ZIP`. Postupuj podľa návodu pre konkrétny OS v príslušnom podadresári. Vo Windows spusti `setup.exe`.
 
+## Licencia
 
+Verejná licencia Európskej Únie
 
